@@ -2,6 +2,8 @@
 
 > Aim of this site is where girls can find stuff who can not afford huge amount for course.
 
-> This
+> This can visit at: https://imuhammadessa.github.io/mareekhacademy/
 
-![alt](images/mareekhacademy.png)
+![Site Look](images/mareekhacademy.png)
+
+> Contribution is highly appreciated, Thanks
